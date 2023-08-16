@@ -31,7 +31,7 @@
 ### 스마트폰
 |이름|CPU|RAM|OS|컴파일러|제공|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|Galaxy S8|엑시노스 8895|LPDDR4X 4GB|Termux v0.118.0 (Android 9)|clang 9.0.1||
+|Galaxy S8|엑시노스 8895|LPDDR4X 4GB|Termux v0.118.0 (Android 9)|clang 16.0.6|
 |Galaxy S23 Ultra|스냅드래곤 8 Gen 2 for Galaxy|LPDDR5X 12GB|Termux v0.118.0 (Android 13)|clang 16.0.6||
 |iPhone 8|A11 Bionic|LPDDR4X 2GB|iSH (iOS 13.3.1)|gcc 9.2.0|상원|
 
